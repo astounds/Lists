@@ -17,6 +17,7 @@
 0.0.0.0 adfstat.yandex.ru
 0.0.0.0 adm.hotjar.com
 0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 advertising-api-eu.amazon.com

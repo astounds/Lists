@@ -17,6 +17,7 @@
 ||adfstat.yandex.ru^
 ||adm.hotjar.com^
 ||ads-api.tiktok.com^
+||ads-sg.tiktok.com^
 ||adservice.google.com^
 ||adtech.yahooinc.com^
 ||advertising-api-eu.amazon.com^
