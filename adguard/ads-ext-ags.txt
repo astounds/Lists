@@ -1,0 +1,47 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Ads List Ext (adguard)
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 32
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# Ad list extra
+# ------------------------------------[FILTERS]-------------------------------------
+||adfstat.yandex.ru^
+||adm.hotjar.com^
+||ads-api.tiktok.com^
+||adtech.yahooinc.com^
+||advertising-api-eu.amazon.com^
+||amazon-analytic.com^
+||analytics-api.samsunghealthcn.com^
+||analytics-sg.tiktok.com^
+||api-adservices.apple.com^
+||api.luckyorange.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+||books-analytics-events.apple.com^
+||browser.sentry-cdn.com^
+||business-api.tiktok.com^
+||cdn-test.mouseflow.com^
+||claritybt.freshmarketer.com^
+||events.hotjar.io^
+||fwtracks.freshmarketer.com^
+||grs.hicloud.com^
+||gtm.mouseflow.com^
+||identify.hotjar.com^
+||logbak.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||metrics.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||realtime.luckyorange.com^
+||samsung-com.112.2o7.net^
+||surveys.hotjar.com^
+||tools.mouseflow.com^
+||udcm.yahoo.com^
